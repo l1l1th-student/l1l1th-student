@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, este é o meu perfil🤝
 
 **l1l1th-student/l1l1th-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
