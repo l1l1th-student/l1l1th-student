@@ -7,4 +7,4 @@ Eu sou uma estudante
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-![]([](https://tenor.com/bJHcO.gif)
+https://tenor.com/bJHcO.gif
