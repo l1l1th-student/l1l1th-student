@@ -8,4 +8,4 @@ Eu sou uma estudante
 
 -Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-!{}(https://tenor.com/bJHcO.gif)
+!{}(https://tenor.com/bJHcO.gif).
