@@ -1,6 +1,6 @@
-## Olá, este é o meu perfil💜
+## Olá, boas vindas ao meu perfil💜
 
-**Eu** **sou** **uma** **estudante**
+**Meu** **nome** **é** **Larissa**
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 
